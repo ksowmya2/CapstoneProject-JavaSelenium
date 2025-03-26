@@ -17,5 +17,5 @@ Feature: Checking User Registration
 
     Examples:  
       | FirstName | LastName | InvalidEmail | Password    | ConfirmPassword | ValidEmail           | Message                     |error  |
-      | kinthali  | sowmya    | fgguwey		  | Sowmya@123  | Sowmya@123      | sowmya805@gmail.com  | Thank you for registering with Main Website Store.   |Please enter a valid email address (Ex: johndoe@domain.com).|
+      | kinthali  | sowmya    | fgguwey		  | Sowmya@123  | Sowmya@123      | sowmya806@gmail.com  | Thank you for registering with Main Website Store.   |Please enter a valid email address (Ex: johndoe@domain.com).|
     
